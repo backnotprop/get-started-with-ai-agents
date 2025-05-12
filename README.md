@@ -1,4 +1,4 @@
-# Getting Started with Agents Using Azure AI Foundry 
+# Agent Using Azure AI Foundry 
 
 MENU: [**FEATURES**](#features) \| [**GETTING STARTED**](#getting-started) \| [**CONFIGURE YOUR ENVIRONMENT**](#configure-your-environment)  \| [**DEPLOYMENT**](#deployment)  \| [**RESOURCE CLEAN-UP**](#resource-clean-up)  \| [**TRACING AND MONITORING**](#tracing-and-monitoring)  \| [**GUIDANCE**](#guidance) \| [**TROUBLESHOOTING**](#troubleshooting) 
 
